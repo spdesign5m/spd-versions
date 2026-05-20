@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "changeLogs": "- Version inicial del script",
     "releaseDate": "17/05/2026"
 }
