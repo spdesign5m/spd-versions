@@ -1,0 +1,5 @@
+{
+       "version": "2.0.0",
+       "changeLogs": "- Version inicial",
+       "download": "https://github.com/spdesign5m/spd-versions"
+   }
