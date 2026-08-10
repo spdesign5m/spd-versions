@@ -1,0 +1,4 @@
+{
+    "version": "1.0.2",
+    "changeLogs": "- Update 2: nuevas animaciones y mejoras"
+}
